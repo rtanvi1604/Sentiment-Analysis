@@ -2,4 +2,8 @@ flask>=2.0.0
 transformers>=4.0.0
 torch>=1.8.0
 emoji>=1.0.0  # Only if you used emoji handling
+<<<<<<< HEAD
 python-dotenv>=0.19.0  # For environment variables (optional)
+=======
+python-dotenv>=0.19.0  # For environment variables (optional)
+>>>>>>> c80674dfb0b72e16da7fb7ef68339895f01895fc
