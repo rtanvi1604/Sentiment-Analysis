@@ -1,5 +1,4 @@
-# Sentiment Analysis with Hugging Face
-- **Model**: `distilbert-base-uncased`
-- **How to Run**:
-  - CLI: `python cli_demo.py`
-  - Web: `python app.py` → Open `http://localhost:5000`
+# Sentiment Analysis App  
+![Demo](screenshot.png)  
+- Classifies text as 😊 POSITIVE / 😠 NEGATIVE / 😐 NEUTRAL  
+- Built with Python, Flask, and Hugging Face Transformers  
